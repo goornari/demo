@@ -1,14 +1,14 @@
 {
   "events": [
-    { "id": 1, "title": "Post 1", "view": 10 },
-    { "id": 2, "title": "Post 2", "view": 10 },
-    { "id": 3, "title": "Post 3", "view": 10 },
-    { "id": 4, "title": "Post 4", "view": 10 },
-    { "id": 5, "title": "Post 5", "view": 10 },
-    { "id": 6, "title": "Post 6", "view": 10 },
-    { "id": 7, "title": "Post 7", "view": 10 },
-    { "id": 8, "title": "Post 8", "view": 10 },
-    { "id": 9, "title": "Post 9", "view": 10 }
+    { "id": 1, "title": "Post 1", "views": 10 },
+    { "id": 2, "title": "Post 2", "views": 10 },
+    { "id": 3, "title": "Post 3", "views": 10 },
+    { "id": 4, "title": "Post 4", "views": 10 },
+    { "id": 5, "title": "Post 5", "views": 10 },
+    { "id": 6, "title": "Post 6", "views": 10 },
+    { "id": 7, "title": "Post 7", "views": 10 },
+    { "id": 8, "title": "Post 8", "views": 10 },
+    { "id": 9, "title": "Post 9", "views": 10 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
