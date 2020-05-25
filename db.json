@@ -1,14 +1,11 @@
 {
-  "events": [
-    { "id": 1, "title": "Post 1", "views": 10 },
-    { "id": 2, "title": "Post 2", "views": 10 },
-    { "id": 3, "title": "Post 3", "views": 10 },
-    { "id": 4, "title": "Post 4", "views": 10 },
-    { "id": 5, "title": "Post 5", "views": 10 },
-    { "id": 6, "title": "Post 6", "views": 10 },
-    { "id": 7, "title": "Post 7", "views": 10 },
-    { "id": 8, "title": "Post 8", "views": 10 },
-    { "id": 9, "title": "Post 9", "views": 10 }
+  "foods": [
+    { "id": 1, "image": "https://cdn-image.myrecipes.com/sites/default/files/image/recipes/ay/12/01/shrimp-cous-cous-ay-x.jpg", "title": "Food 1", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor libero, semper quis posuere at, luctus eget lectus. Phasellus nec nisl nec ante pulvinar blandit non eu erat. Vivamus vitae ipsum libero. Aenean ut lectus lacinia, sagittis ipsum id, sodales metus. Aenean at justo aliquet, mattis mauris nec, dapibus erat. Mauris facilisis sagittis lacus, nec eleifend diam placerat at. Quisque sit amet risus suscipit, imperdiet neque vitae, molestie eros." },
+    { "id": 2, "image": "https://cdn-image.myrecipes.com/sites/default/files/image/recipes/ay/12/01/shrimp-cous-cous-ay-x.jpg", "title": "Food 2", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor libero, semper quis posuere at, luctus eget lectus. Phasellus nec nisl nec ante pulvinar blandit non eu erat. Vivamus vitae ipsum libero. Aenean ut lectus lacinia, sagittis ipsum id, sodales metus. Aenean at justo aliquet, mattis mauris nec, dapibus erat. Mauris facilisis sagittis lacus, nec eleifend diam placerat at. Quisque sit amet risus suscipit, imperdiet neque vitae, molestie eros." },
+    { "id": 3, "image": "https://cdn-image.myrecipes.com/sites/default/files/image/recipes/ay/12/01/shrimp-cous-cous-ay-x.jpg", "title": "Food 3", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor libero, semper quis posuere at, luctus eget lectus. Phasellus nec nisl nec ante pulvinar blandit non eu erat. Vivamus vitae ipsum libero. Aenean ut lectus lacinia, sagittis ipsum id, sodales metus. Aenean at justo aliquet, mattis mauris nec, dapibus erat. Mauris facilisis sagittis lacus, nec eleifend diam placerat at. Quisque sit amet risus suscipit, imperdiet neque vitae, molestie eros." },
+    { "id": 4, "image": "https://cdn-image.myrecipes.com/sites/default/files/image/recipes/ay/12/01/shrimp-cous-cous-ay-x.jpg", "title": "Food 4", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor libero, semper quis posuere at, luctus eget lectus. Phasellus nec nisl nec ante pulvinar blandit non eu erat. Vivamus vitae ipsum libero. Aenean ut lectus lacinia, sagittis ipsum id, sodales metus. Aenean at justo aliquet, mattis mauris nec, dapibus erat. Mauris facilisis sagittis lacus, nec eleifend diam placerat at. Quisque sit amet risus suscipit, imperdiet neque vitae, molestie eros." },
+    { "id": 5, "image": "https://cdn-image.myrecipes.com/sites/default/files/image/recipes/ay/12/01/shrimp-cous-cous-ay-x.jpg", "title": "Food 5", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor libero, semper quis posuere at, luctus eget lectus. Phasellus nec nisl nec ante pulvinar blandit non eu erat. Vivamus vitae ipsum libero. Aenean ut lectus lacinia, sagittis ipsum id, sodales metus. Aenean at justo aliquet, mattis mauris nec, dapibus erat. Mauris facilisis sagittis lacus, nec eleifend diam placerat at. Quisque sit amet risus suscipit, imperdiet neque vitae, molestie eros." },
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
